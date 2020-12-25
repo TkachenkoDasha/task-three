@@ -1,4 +1,4 @@
-package task1;
+package task2;
 
 public class Satellite extends SpaceObject {
     private double distanceToPlanet;

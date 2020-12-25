@@ -1,4 +1,4 @@
-package task1;
+package task2;
 
 public abstract class SpaceObject {
     private String name;
