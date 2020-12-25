@@ -1,4 +1,4 @@
-package task1;
+package task2;
 
 public class Star extends SpaceObject {
     private String type;
